@@ -77,3 +77,9 @@ header .navbar {
   max-width: 630px;
   line-height: 65px;
 }
+.hero-section .search-form {
+  height: 48px;
+  display: flex;
+  max-width: 630px;
+  margin-top: 30px;
+}
