@@ -106,3 +106,11 @@ header .navbar {
 .hero-section .search-form button:hover {
   background: #19a463;
 }
+.hero-section .popular-tags {
+  display: flex;
+  color: #fff;
+  gap: 25px;
+  font-size: 0.875rem;
+  font-weight: 500;
+  margin-top: 25px;
+}
