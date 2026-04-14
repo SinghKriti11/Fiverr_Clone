@@ -8,3 +8,11 @@
 body {
   background: #1B1B1D;
 }
+header {
+  position: fixed;
+  left: 0;
+  top: 0;
+  width: 100%;
+  z-index: 1;
+  padding: 20px;
+}
