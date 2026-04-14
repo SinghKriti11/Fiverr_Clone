@@ -210,4 +210,12 @@ header .navbar {
   .hero-section .search-form input {
     border-radius: 4px;
   }
+  .hero-section .search-form button {
+    margin-top: 10px;
+    border-radius: 4px;
+    width: 100%;
+  }
+  .hero-section .popular-tags {
+    display: none;
+  }
 }
