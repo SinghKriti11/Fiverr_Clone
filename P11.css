@@ -51,3 +51,8 @@ header .navbar {
   padding: 8px 15px;
   border-radius: 4px;
 }
+.navbar .menu-links .join-btn a:hover {
+  color: #fff;
+  border-color: transparent;
+  background: #1dbf73;
+}
