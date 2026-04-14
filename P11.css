@@ -43,3 +43,6 @@ header .navbar {
 .navbar .menu-links .language-item span {
   font-size: 1.3rem;
 }
+.navbar .menu-links li a:hover {
+  color: #1dbf73;
+}
