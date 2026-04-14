@@ -103,3 +103,6 @@ header .navbar {
   border-radius: 0 4px 4px 0;
   transition: background 0.2s ease;
 }
+.hero-section .search-form button:hover {
+  background: #19a463;
+}
