@@ -182,4 +182,11 @@ header .navbar {
   .navbar .menu-links .join-btn a {
     padding: 0;
   }
+  .navbar .menu-links .join-btn a:hover {
+    color: #1dbf73;
+    background: none;
+  }
+  .navbar :is(#close-menu-btn, #hamburger-btn) {
+    display: block;
+  }
 }
