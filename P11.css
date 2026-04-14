@@ -169,4 +169,10 @@ header .navbar {
     padding: 75px 40px 0;
     transition: left 0.2s ease;
   }
+  header.show-mobile-menu .navbar .menu-links {
+    left: 0;
+  }
+  .navbar .menu-links li {
+    margin-bottom: 30px;
+  }
 }
