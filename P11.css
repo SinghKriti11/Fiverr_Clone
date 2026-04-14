@@ -203,4 +203,11 @@ header .navbar {
     font-size: 2.5rem;
     line-height: 55px;
   }
+  .hero-section .search-form {
+    display: block;
+    margin-top: 20px;
+  }
+  .hero-section .search-form input {
+    border-radius: 4px;
+  }
 }
