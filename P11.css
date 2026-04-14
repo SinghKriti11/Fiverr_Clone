@@ -23,3 +23,9 @@ header .navbar {
   align-items: center;
   justify-content: space-between;
 }
+.navbar .menu-links {
+  display: flex;
+  align-items: center;
+  list-style: none;
+  gap: 30px;
+}
