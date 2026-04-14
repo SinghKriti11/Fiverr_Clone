@@ -66,3 +66,8 @@ header .navbar {
   padding: 0 20px;
   align-items: center;
 }
+.hero-section .content {
+  max-width: 1280px;
+  margin: 0 auto 40px;
+  width: 100%;
+}
