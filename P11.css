@@ -114,3 +114,9 @@ header .navbar {
   font-weight: 500;
   margin-top: 25px;
 }
+.hero-section .popular-tags .tags {
+  display: flex;
+  gap: 15px;
+  align-items: center;
+  list-style: none;
+}
