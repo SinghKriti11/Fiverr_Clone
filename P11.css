@@ -56,3 +56,8 @@ header .navbar {
   border-color: transparent;
   background: #1dbf73;
 }
+.hero-section {
+  height: 100vh;
+  background-image: url("images/hero-img.jpg");
+  background-position: center;
+}
