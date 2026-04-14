@@ -35,3 +35,8 @@ header .navbar {
   text-decoration: none;
   transition: 0.2s ease;
 }
+.navbar .menu-links .language-item a {
+  display: flex;
+  gap: 8px;
+  align-items: center;
+}
