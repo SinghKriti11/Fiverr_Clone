@@ -40,3 +40,6 @@ header .navbar {
   gap: 8px;
   align-items: center;
 }
+.navbar .menu-links .language-item span {
+  font-size: 1.3rem;
+}
