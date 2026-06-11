@@ -11,7 +11,7 @@ A simple front-end clone of Fiverr homepage built using HTML, CSS, and JavaScrip
 
 ---
 
-## Tech Stack
+## Tech Stack  
 - HTML
 - CSS
 - JavaScript
