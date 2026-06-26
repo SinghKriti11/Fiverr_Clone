@@ -6,7 +6,7 @@ A simple front-end clone of Fiverr homepage built using HTML, CSS, and JavaScrip
 ## Features
 - Responsive navbar
 - Hero section with search bar 
-- Mobile menu toggle
+- Mobile menu toggle 
 - Clean UI design
 
 ---
